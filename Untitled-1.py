@@ -20,3 +20,4 @@ try:
         print(f"{d} is an odd number")
 except ValueError:
     print("Value not a integer ")
+    
